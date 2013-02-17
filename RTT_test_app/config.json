@@ -1,0 +1,13 @@
+{
+  "configurations" : 
+  [ 
+	  {
+		"nodeUrnsJsonFileUrl" : "http://wisebed.itm.uni-luebeck.de/rest/2.3/uzl/experiments/nodes?filter=0x210c",
+		"binaryProgramUrl" : "wiselib_6lowpan_RTT.bin"
+	  },
+	  {
+		"nodeUrnsJsonFileUrl" : "http://wisebed.itm.uni-luebeck.de/rest/2.3/uzl/experiments/nodes?filter=0x2110",
+		"binaryProgramUrl" : "wiselib_6lowpan_RTT.bin"
+	  }
+  ]
+}
